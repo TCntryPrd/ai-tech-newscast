@@ -11,7 +11,15 @@
     <description>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and the story you can't miss. Hosted by Daxon Caine.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Starr &amp; Partners LLC</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 21:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:47:01 +0000</lastBuildDate>
+    <item>
+      <title>AI & Tech News Cast — March 31, 2026</title>
+      <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" length="17780444" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-03-31-newscast</guid>
+      <pubDate>Tue, 31 Mar 2026 21:47:01 +0000</pubDate>
+      <itunes:duration>1111</itunes:duration>
+      <itunes:summary>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and the story you can't miss.</itunes:summary>
+    </item>
     <item>
       <title>AI & Tech News Cast — March 31, 2026</title>
       <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" length="689257" type="audio/mpeg"/>
