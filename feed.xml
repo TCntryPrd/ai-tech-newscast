@@ -27,9 +27,11 @@
     <itunes:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
     <googleplay:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
     <image>
-        <url>https://tcntryprd.github.io/ai-tech-newscast/cover.jpg</url>
+        <url>https://tcntryprd.github.io/ai-tech-newscast/cover-rss.jpg</url>
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
+            <width>144</width>
+        <height>144</height>
     </image>
 
     <item>
