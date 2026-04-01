@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
+<rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 <channel>
-    <title>AI &amp; Tech News Cast</title>
-    <link>https://tcntryprd.github.io/ai-tech-newscast</link>
-    <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and the story you can't miss. Hosted by Daxon Caine.</description>
+    <title>SP Productions Daily</title>
+    <link>{base_url}</link>
+    <atom:link href="{base_url}/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>The AI and Tech News Cast with Daxon Caine. Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and a travel destination. No fluff, no filler.</description>
     <language>en-us</language>
-    <copyright>&#xA9; 2026 Starr &amp; Partners LLC</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 21:47:01 +0000</lastBuildDate>
-    <item>
-      <title>AI & Tech News Cast — March 31, 2026</title>
-      <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" length="17780444" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-03-31-newscast</guid>
-      <pubDate>Tue, 31 Mar 2026 21:47:01 +0000</pubDate>
-      <itunes:duration>1111</itunes:duration>
-      <itunes:summary>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and the story you can't miss.</itunes:summary>
-    </item>
-    <item>
-      <title>AI & Tech News Cast — March 31, 2026</title>
-      <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" length="689257" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-03-31-newscast</guid>
-      <pubDate>Tue, 31 Mar 2026 21:41:25 +0000</pubDate>
-      <itunes:duration>43</itunes:duration>
-      <itunes:summary>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and the story you can't miss.</itunes:summary>
-    </item>
-    <itunes:author>Daxon Caine</itunes:author>
-    <itunes:summary>Sharp, insider-level AI and tech analysis in 20 minutes. Five segments daily: AI models, business moves, developer tools, culture impact, and the one story you can't miss. No hype. No filler. Hosted by Daxon Caine.</itunes:summary>
+    <copyright>&#169; 2026 Starr and Partners LLC</copyright>
+    <lastBuildDate>{time.strftime('%a, %d %b %Y %H:%M:%S +0000', time.gmtime())}</lastBuildDate>
+    <itunes:author>SP Productions</itunes:author>
+    <itunes:summary>The AI and Tech News Cast with Daxon Caine. Daily AI and tech news in 20 minutes covering models and research, business and industry, developer tools, culture and society, plus a travel destination pulled from real YouTube vlogs. No fluff, no filler. Just what happened, why it matters, and what to do about it.</itunes:summary>
     <itunes:owner>
         <itunes:name>Kevin Starr</itunes:name>
         <itunes:email>kevin@starrpartners.ai</itunes:email>
@@ -40,12 +24,24 @@
     <itunes:category text="News">
         <itunes:category text="Tech News"/>
     </itunes:category>
-    <itunes:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
-    <googleplay:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
+    <itunes:image href="{base_url}/cover.jpg"/>
+    <googleplay:image href="{base_url}/cover.jpg"/>
     <image>
-        <url>https://tcntryprd.github.io/ai-tech-newscast/cover.jpg</url>
-        <title>AI &amp; Tech News Cast</title>
-        <link>https://tcntryprd.github.io/ai-tech-newscast</link>
+        <url>{base_url}/cover.jpg</url>
+        <title>SP Productions Daily</title>
+        <link>{base_url}</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - 2026-03-31</title>
+        <description>Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and a travel destination. Hosted by Daxon Caine.</description>
+        <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" type="audio/mpeg" length="13996660"/>
+        <guid isPermaLink="false">newscast-2026-03-31</guid>
+        <itunes:title>AI and Tech News Cast - 2026-03-31</itunes:title>
+        <itunes:duration>874</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 </channel>
 </rss>
