@@ -6,8 +6,8 @@
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 <channel>
     <title>SP Productions Daily</title>
-    <link>{base_url}</link>
-    <atom:link href="{base_url}/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://tcntryprd.github.io/ai-tech-newscast</link>
+    <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The AI and Tech News Cast with Daxon Caine. Daily AI and tech news in 20 minutes. Models, business, developer tools, culture, and a travel destination. No fluff, no filler.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
@@ -24,12 +24,12 @@
     <itunes:category text="News">
         <itunes:category text="Tech News"/>
     </itunes:category>
-    <itunes:image href="{base_url}/cover.jpg"/>
-    <googleplay:image href="{base_url}/cover.jpg"/>
+    <itunes:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
+    <googleplay:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
     <image>
-        <url>{base_url}/cover.jpg</url>
+        <url>https://tcntryprd.github.io/ai-tech-newscast/cover.jpg</url>
         <title>SP Productions Daily</title>
-        <link>{base_url}</link>
+        <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
     <item>
