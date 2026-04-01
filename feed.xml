@@ -8,12 +8,12 @@
     <title>SP Productions Daily</title>
     <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Daily shows from SP Productions. Morning Briefing with Maya and Jess, plus the AI and Tech News Cast with Daxon Caine.</description>
+    <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 01:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:05:59 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
-    <itunes:summary>Daily shows from SP Productions. Morning Briefing with Maya and Jess covers bipartisan news, local Oklahoma coverage, business, tech, weather, scripture, and travel. AI and Tech News Cast with Daxon Caine delivers 20 minutes of AI models, business, developer tools, and culture.</itunes:summary>
+    <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
         <itunes:name>Kevin Starr</itunes:name>
         <itunes:email>kevin@starrpartners.ai</itunes:email>
@@ -27,9 +27,33 @@
     <itunes:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
     <googleplay:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
     <image>
-        <url>https://tcntryprd.github.io/ai-tech-newscast/cover-rss.jpg</url>
+        <url>https://tcntryprd.github.io/ai-tech-newscast/cover.jpg</url>
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-01</title>
+        <description>Evening Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Wed, 01 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-01-evening.mp3" type="audio/mpeg" length="14053920"/>
+        <guid isPermaLink="false">2026-04-01-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-01</itunes:title>
+        <itunes:duration>878</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - 2026-03-31</title>
+        <description>Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Tue, 31 Mar 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-03-31.mp3" type="audio/mpeg" length="13996660"/>
+        <guid isPermaLink="false">2026-03-31-newscast</guid>
+        <itunes:title>AI and Tech News Cast - 2026-03-31</itunes:title>
+        <itunes:duration>874</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 </channel>
 </rss>
