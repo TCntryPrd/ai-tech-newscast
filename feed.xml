@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 17:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 22:53:45 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -52,6 +52,18 @@
         <guid isPermaLink="false">2026-04-02-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-02</itunes:title>
         <itunes:duration>1340</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-02</title>
+        <description>Evening Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-02-evening.mp3" type="audio/mpeg" length="27035315"/>
+        <guid isPermaLink="false">2026-04-02-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-02</itunes:title>
+        <itunes:duration>1689</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
