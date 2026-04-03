@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<channel>
+    <title>SP Productions Daily</title>
+    <link>https://tcntryprd.github.io/ai-tech-newscast</link>
+    <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
+    <language>en-us</language>
+    <copyright>&#169; 2026 Starr and Partners LLC</copyright>
+    <lastBuildDate>Thu, 02 Apr 2026 22:53:45 +0000</lastBuildDate>
+    <itunes:author>SP Productions</itunes:author>
+    <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Kevin Starr</itunes:name>
+        <itunes:email>kevin@starrpartners.ai</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
+        <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
+    <googleplay:image href="https://tcntryprd.github.io/ai-tech-newscast/cover.jpg"/>
+    <image>
+        <url>https://tcntryprd.github.io/ai-tech-newscast/cover.jpg</url>
+        <title>SP Productions Daily</title>
+        <link>https://tcntryprd.github.io/ai-tech-newscast</link>
+    </image>
+
+    <item>
+        <title>AI and Tech News Cast - Morning Edition - 2026-04-02</title>
+        <description>Morning Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Thu, 02 Apr 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-02-morning.mp3" type="audio/mpeg" length="22283119"/>
+        <guid isPermaLink="false">2026-04-02-morning</guid>
+        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-02</itunes:title>
+        <itunes:duration>1392</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-02</title>
+        <description>Midday Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-02-midday.mp3" type="audio/mpeg" length="21442186"/>
+        <guid isPermaLink="false">2026-04-02-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-02</itunes:title>
+        <itunes:duration>1340</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-02</title>
+        <description>Evening Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-02-evening.mp3" type="audio/mpeg" length="27035315"/>
+        <guid isPermaLink="false">2026-04-02-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-02</itunes:title>
+        <itunes:duration>1689</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+</channel>
+</rss>
