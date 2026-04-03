@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 22:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 22:26:03 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -60,10 +60,10 @@
         <title>AI and Tech News Cast - Evening Edition - 2026-04-03</title>
         <description>Evening Edition: AI Models: Altman on shutting down Sora: &#x27;I did not expect 3 or 6 months ago to be at this point we&#x27;re at now; ; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] 18 Fixes for Claude AI Model Code Limits; Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and ex; AI will do to our minds what machines did to our bodies | Business: China’s solar/wind power generation now exceeds all U.S. household and industrial electricity consum; Tesla Is Sitting On A Record 50,000 Unsold EVs; Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs; Colorado’s New Speed Camera System Makes Waze Nearly Useless | Dev Tools: [hackernews] Cursor 3; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen and Gamma integrate to streamline AI-powered ; How Microsoft Vaporized a Trillion Dollars | Culture: BLACK$NAPE - Always (Official Rap Music Video); I had fun testing out LTX&#x27;s lipsync ability. Full open source Z-Image -&amp;gt; LTX-2.3 -&amp;gt; WanAnimate; Literally nobody is asking you to do that???; This Is Why Slowing Down AI Is Not Some Noble Pursuit: A Doctor Was Ready To Wait Months. The AI Fla | Wild Card: [hackernews] Tailscale&#x27;s new macOS home; [hackernews] Show HN: Apfel – The free AI already on your Mac; [newsletter/NVIDIA Developer Relations &lt;news@nvidia.com&gt;] NVIDIA GTC 2026 Sessions Now Available On-; [hackernews] Solana Drift Protocol drained of $285M via fake token and governance hijack</description>
         <pubDate>Fri, 03 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-03-evening.mp3" type="audio/mpeg" length="33106173"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-03-evening.mp3" type="audio/mpeg" length="33056435"/>
         <guid isPermaLink="false">2026-04-03-evening</guid>
         <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-03</itunes:title>
-        <itunes:duration>2069</itunes:duration>
+        <itunes:duration>2065</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
