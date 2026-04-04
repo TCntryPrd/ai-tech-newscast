@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 11:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:24:58 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -36,10 +36,10 @@
         <title>AI and Tech News Cast - Morning Edition - 2026-04-04</title>
         <description>Morning Edition: AI Models: Altman on shutting down Sora: &#x27;I did not expect 3 or 6 months ago to be at this point we&#x27;re at now; ; Linux Kernel developers are receiving record high number of CORRECT bug reports because of AI and ex; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] 18 Fixes for Claude AI Model Code Limits | Business: Chinese scientists unveil glowing Avatar-like plants that could light cities without electricity; Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs; Half of planned US data center builds have been delayed or canceled, growth limited by shortages of ; Colorado’s New Speed Camera System Makes Waze Nearly Useless; RollerCoaster Tycoon YouTuber builds ride lasting 194 quattorseptuagintillion years | Dev Tools: How Microsoft Vaporized a Trillion Dollars; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen and Gamma integrate to streamline AI-powered  | Culture: For the Cure!; This Is Why Slowing Down AI Is Not Some Noble Pursuit: A Doctor Was Ready To Wait Months. The AI Fla; I found this in the awards sub.; Harry Potter Drip series is about to get Meta; What Fuel Crisis? | Wild Card: [newsletter/NVIDIA Developer Relations &lt;news@nvidia.com&gt;] NVIDIA GTC 2026 Sessions Now Available On-</description>
         <pubDate>Sat, 04 Apr 2026 07:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-04-morning.mp3" type="audio/mpeg" length="27532269"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-04-morning.mp3" type="audio/mpeg" length="27782208"/>
         <guid isPermaLink="false">2026-04-04-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-04</itunes:title>
-        <itunes:duration>1720</itunes:duration>
+        <itunes:duration>1736</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
