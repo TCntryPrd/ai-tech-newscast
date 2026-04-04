@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 16:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 16:25:47 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -48,10 +48,10 @@
         <title>AI and Tech News Cast - Midday Edition - 2026-04-04</title>
         <description>Midday Edition: AI Models: Some meatbags are alright; [hackernews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw; Early anti-clankerite violence caught on film; Humanoid robots are actively training; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] 18 Fixes for Claude AI Model Code Limits | Business: Oracle fired up to 30,000 workers via email after a 95% profit surge. Tech companies are cutting alm; Iran threatens to bomb 1GW Stargate AI datacenter in Abu Dhabi; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Expert Identifies Top 5 Selling AI Workflows fo; [newsletter/Notion Team &lt;team@mail.notion.so&gt;] Ramp&#x27;s AI Transformation Playbook to be Revealed in N | Dev Tools: How Microsoft Vaporized a Trillion Dollars; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen and Gamma integrate to streamline AI-powered ; How To Write Unmaintainable Code (1999) | Culture: How can I do this?; ENTANGLED - A 3-minute sci-fi short using 100% local open-source models. Complete Technical Breakdow; i have no words... | Wild Card: [newsletter/NVIDIA Developer Relations &lt;news@nvidia.com&gt;] NVIDIA GTC 2026 Sessions Now Available On-; [hackernews] Mbodi AI (YC P25) Is Hiring</description>
         <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-04-midday.mp3" type="audio/mpeg" length="27007312"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-04-midday.mp3" type="audio/mpeg" length="29199090"/>
         <guid isPermaLink="false">2026-04-04-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-04</itunes:title>
-        <itunes:duration>1687</itunes:duration>
+        <itunes:duration>1824</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
