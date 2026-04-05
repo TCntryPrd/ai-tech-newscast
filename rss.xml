@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 16:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 16:23:51 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -48,10 +48,10 @@
         <title>AI and Tech News Cast - Midday Edition - 2026-04-05</title>
         <description>Midday Edition: AI Models: Claude is bypassing Permissions; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] 18 Fixes for Claude AI Model Code Limits | Business: Maine Is About to Become the First State to Ban New Data Centers; Hallucinated citations are polluting the scientific literature. What can be done? - Tens of thousand; AI cuts MRI scan time from 23 to 9 minutes at Amsterdam cancer center | Dev Tools: I built an open-source replacement for APC SmartSlot network cards (OpenNMC); [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen and Gamma integrate to streamline AI-powered  | Culture: Wow, that escalated quickly; Reddit is healing; Yes, you are | Wild Card: [hackernews] How many products does Microsoft have named &#x27;Copilot&#x27;?; [newsletter/NVIDIA Developer Relations &lt;news@nvidia.com&gt;] NVIDIA GTC 2026 Sessions Now Available On-</description>
         <pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-05-midday.mp3" type="audio/mpeg" length="19605673"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-05-midday.mp3" type="audio/mpeg" length="19683413"/>
         <guid isPermaLink="false">2026-04-05-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-05</itunes:title>
-        <itunes:duration>1225</itunes:duration>
+        <itunes:duration>1230</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
