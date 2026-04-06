@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 16:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:26:44 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -48,10 +48,10 @@
         <title>AI and Tech News Cast - Midday Edition - 2026-04-06</title>
         <description>Midday Edition: AI Models: Image Create guardrails are made of wet cardboard.; New Yorker published a major investigation into Sam Altman and OpenAI today — based on never-before-; I have been coding for 11 years and I caught myself completely unable to debug a problem without AI ; [D] How to break free from LLM&#x27;s chains as a PhD student? | Business: OpenAI&#x27;s New Stunning Image Model (Before &amp;amp; After); UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027 —laser downs 400; Anthropic Surpasses OpenAI in ARR | Dev Tools: Media scraper gallery-dl is moving to codeberg after receiving a DMCA notice, claiming that its circ; How Linux executes binaries: ELF and dynamic linking explained; My First Proper Homeserver; [hackernews] Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B | Culture: Bro was chasing a pigeon and woke up mid-fall; I&#x27;ve been brainstorming ways on making democracy accountable making our government work for us inste; tiktok:; Survivorship bias at its finest | Wild Card: [hackernews] France pulls last gold held in US for $15B gain; [hackernews] The Intelligence Failure in Iran; [hackernews] Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair</description>
         <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-06-midday.mp3" type="audio/mpeg" length="32469621"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-06-midday.mp3" type="audio/mpeg" length="31201951"/>
         <guid isPermaLink="false">2026-04-06-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-06</itunes:title>
-        <itunes:duration>2029</itunes:duration>
+        <itunes:duration>1950</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
