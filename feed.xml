@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 16:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:24:22 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -52,6 +52,18 @@
         <guid isPermaLink="false">2026-04-07-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-07</itunes:title>
         <itunes:duration>1962</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-07</title>
+        <description>Evening Edition: AI Models: An actress Milla Jovovich just released a free open-source AI memory system that scored 100% on Long; [hackernews] Claude Code is locking people out for hours; [hackernews] Taste in the age of AI and LLMs; [hackernews] System Card: Claude Mythos Preview [pdf] | Business: Honda President After Visiting Chinese Auto Supplier: &#x27;We Have No Chance Against This&#x27;; Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s polic; Data Centers Are Military Targets Now; Americans May Be Losing Trust for AI in Health Care | Dev Tools: Quarter 2 Update - Revisiting Rules. Again.; Accidental find while re-racking; C3 closes out its 0.7 era — focusing on simplicity and control before 0.8; Parse, Don&#x27;t Validate — In a Language That Doesn&#x27;t Want You To · cekrem.github.io | Culture: What the fuck; And this is why AI exists to break the gatekeeping BS and Barriers; Mogging Rivalry - When looksmaxxing goes homoerotic | Wild Card: [hackernews] Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead; [hackernews] Project Glasswing: Securing critical software for the AI era; [hackernews] Google open-sources experimental agent orchestration testbed Scion; [hackernews] Cells for NetBSD: kernel-enforced, jail-like isolation</description>
+        <pubDate>Tue, 07 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-07-evening.mp3" type="audio/mpeg" length="31817186"/>
+        <guid isPermaLink="false">2026-04-07-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-07</itunes:title>
+        <itunes:duration>1988</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
