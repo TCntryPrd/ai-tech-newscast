@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 11:25:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:24:36 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-07-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-07</itunes:title>
         <itunes:duration>1631</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-07</title>
+        <description>Midday Edition: AI Models: [hackernews] Issue: Claude Code is unusable for complex engineering tasks with Feb updates; Anthropic has now hit $30b in revenue; Anthropic have signed a deal for multiple gigawatts of next generation TPUs; An actress Milla Jovovich just released a free open-source AI memory system that scored 100% on Long | Business: Target puts customers on the hook for AI shopping assistant errors; Americans May Be Losing Trust for AI in Health Care | Dev Tools: PDF of the current POSIX standard; I poorly estimated a year long rewrite; C3 closes out its 0.7 era — focusing on simplicity and control before 0.8; Accidental find while re-racking | Culture: Open-Source Models Recently:; [hackernews] AI singer now occupies eleven spots on iTunes singles chart; Trruuuue; HOW CAN THE REAL MESSAGE JUST FLY OVER HIS HEAD??? | Wild Card: [hackernews] Launch HN: Freestyle – Sandboxes for Coding Agents; [hackernews] AI may be making us think and write more alike; [hackernews] Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead; [hackernews] AI Won&#x27;t Replace You, but a Manager Using AI Will</description>
+        <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-07-midday.mp3" type="audio/mpeg" length="29115498"/>
+        <guid isPermaLink="false">2026-04-07-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-07</itunes:title>
+        <itunes:duration>1819</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
