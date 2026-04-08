@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 15:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:24:10 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-08-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-08</itunes:title>
         <itunes:duration>1903</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-08</title>
+        <description>Midday Edition: AI Models: [hackernews] System Card: Claude Mythos Preview [pdf]; Sam Altman&#x27;s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts: &quot;&quot;; Reset; If you ever feel useless, remember this rule exists. | Business: Google&#x27;s AI search is producing millions of wrong answers every day; CIA use never-before-used tool to find airman downed in Iran; Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member su; India is building one of the world&#x27;s largest batteries inside a solar farm five times the size of Pa | Dev Tools: Rate my server😌; I Am Very Fond of the Pipeline Operator; Thousands of consumer routers hacked by Russia&#x27;s military; is this worth keeping? | Culture: To those who say I need to pick up a pencil. Here you go.; &quot;the death of generative ai has finally started and its gonna be so unbelievably satisfying to watch; Most respectful, least bigoted anti; Update to my post | Wild Card: [hackernews] Project Glasswing: Securing critical software for the AI era</description>
+        <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-08-midday.mp3" type="audio/mpeg" length="28938284"/>
+        <guid isPermaLink="false">2026-04-08-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-08</itunes:title>
+        <itunes:duration>1808</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
