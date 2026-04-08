@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 22:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 22:26:58 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -60,10 +60,10 @@
         <title>AI and Tech News Cast - Evening Edition - 2026-04-08</title>
         <description>Evening Edition: AI Models: Sam Altman&#x27;s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts: &quot;&quot;; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m; From Inside the Meat - short film; Claude Opus vs Mythos | Business: Republicans fooled by AI-generated image of US airman rescued in Iran - Fake image of crew member su; Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected; Ukraine says it replaced human soldiers with &#x27;ground robots&#x27; in over 21,000 missions for Q1; John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement | Dev Tools: I Am Very Fond of the Pipeline Operator; [hackernews] USB for Software Developers: An introduction to writing userspace USB drivers; show me your most threatening router; Multi-Core By Default - by Ryan Fleury - Digital Grove | Culture: Hair Braider Machine; To those who say I need to pick up a pencil. Here you go.; Used TripoAI&#x27;s latest open-source model, TripoSG and the image to mesh results are genuinely some of; &quot;the death of generative ai has finally started and its gonna be so unbelievably satisfying to watch | Wild Card: [hackernews] Project Glasswing: Securing critical software for the AI era; [hackernews] I&#x27;ve been waiting over a month for Anthropic to respond to my billing issue; [hackernews] We moved Railway&#x27;s frontend off Next.js. Builds went from 10+ mins to under 2; [hackernews] One item purchased, Ten emails</description>
         <pubDate>Wed, 08 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-08-evening.mp3" type="audio/mpeg" length="32783090"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-08-evening.mp3" type="audio/mpeg" length="32652269"/>
         <guid isPermaLink="false">2026-04-08-evening</guid>
         <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-08</itunes:title>
-        <itunes:duration>2048</itunes:duration>
+        <itunes:duration>2040</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
