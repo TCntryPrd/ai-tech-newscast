@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 11:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:24:24 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-09-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-09</itunes:title>
         <itunes:duration>1830</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-09</title>
+        <description>Midday Edition: AI Models: Claude Opus vs Mythos; Ronan Farrow on Sam Altman: &quot;We interviewed more than 100 people... a majority did say some variatio; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m | Business: Gen Z workers are so fearful AI will take their job they’re intentionally sabotaging their company’s; Ukraine says it replaced human soldiers with &#x27;ground robots&#x27; in over 21,000 missions for Q1; Greece announces social media ban for under-15s, citing anxiety and sleep problems; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: Fake It Until You Break It: The End Of Non-Technical Managers In Software Engineering Dawns; How Pizza Tycoon (1994) simulated traffic on a 25 MHz CPU; [hackernews] USB for Software Developers: An introduction to writing userspace USB drivers; Absurd Workflows: Durable Execution With Just Postgres; My journey in the last 6 months... | Culture: Posting AI art on reddit; I wish these people just wouldn’t comment, we get it, they can’t understand what “slop” means.; Did a basement for a client today, and they loved it; There, I picked up a pencil; ACE-Step 1.5 XL Turbo — BF16 version (converted from FP32) | Wild Card: [hackernews] Process Manager for Autonomous AI Agents</description>
+        <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-09-midday.mp3" type="audio/mpeg" length="29768351"/>
+        <guid isPermaLink="false">2026-04-09-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-09</itunes:title>
+        <itunes:duration>1860</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
