@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 21:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:24:18 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -33,18 +33,6 @@
     </image>
 
     <item>
-        <title>AI and Tech News Cast - Evening Edition - 2026-04-09</title>
-        <description>Evening Edition: Microsoft Starts Pulling Copilot Out of Windows 11; New Yorker Exposé: OpenAI Engineers Say Sam Altman Can Barely Code; 80% of White-Collar Workers Are Quietly Saying No to AI; Maine Is About to Become the First State to Ban Major New Data Centers; EFF Is Leaving X | Travel: Dinner at the Top of Italy — Livigno, Italian Alps</description>
-        <pubDate>Thu, 09 Apr 2026 21:16:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-09-evening.mp3" type="audio/mpeg" length="2799309"/>
-        <guid isPermaLink="false">2026-04-09-evening</guid>
-        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-09</itunes:title>
-        <itunes:duration>466</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
         <title>AI and Tech News Cast - Morning Edition - 2026-04-09</title>
         <description>Morning Edition: AI Models: From Inside the Meat - short film; Ronan Farrow on Sam Altman: &quot;We interviewed more than 100 people... a majority did say some variatio; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m | Business: ‘Ghost Murmur,’ secret technology CIA used to locate downed American Pilot; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu; ‘Accountability has arrived’: dual US court losses show shifting tide against Meta and co | Dev Tools: Fake It Until You Break It: The End Of Non-Technical Managers In Software Engineering Dawns; I Am Very Fond of the Pipeline Operator; We have ASUS Dual at home; [hackernews] USB for Software Developers: An introduction to writing userspace USB drivers | Culture: Hair Braider Machine; Antis BULLY a terminally ill mom for making ai asmr; Holy Cope; AI cheating fruits where your life is crumbling but in anime | Wild Card: [hackernews] We moved Railway&#x27;s frontend off Next.js. Builds went from 10+ mins to under 2; [hackernews] I&#x27;ve been waiting over a month for Anthropic to respond to my billing issue; [hackernews] John Deere to pay $99M in right-to-repair settlement; [hackernews] Show HN: TUI-use: Let AI agents control interactive terminal programs</description>
         <pubDate>Thu, 09 Apr 2026 07:00:00 +0000</pubDate>
@@ -64,6 +52,18 @@
         <guid isPermaLink="false">2026-04-09-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-09</itunes:title>
         <itunes:duration>1816</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-09</title>
+        <description>Evening Edition: AI Models: AI generated cow, 2014; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m | Business: Sam Altman’s Coworkers Say He Can Barely Code and Misunderstands Basic Machine Learning Concepts; Ukraine says it replaced human soldiers with &#x27;ground robots&#x27; in over 21,000 missions for Q1; Microsoft begins removing Copilot from Windows 11, starting with Notepad, Snipping Tool; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: How NASA Built Artemis II’s Fault-Tolerant Computer; [hackernews] Show HN: CSS Studio. Design by hand, code by agent; Testing a $6 server under load (1 vCPU / 1GB RAM) - interesting limits with Nginx and Gunicorn; After my last post blew up, I audited my Docker security. It was worse than I thought. | Culture: Eren Yeager Voice Actor Has Started A AI Voice Actor Company; /Imagine - Horror Short; He’s better off without you if that all it took to end the friendship; FlowInOne - A new Multimodal image model . Released on Huggingface; LET’S TALK ABOUT THE REAL SLOP, HUHHHH??? | Wild Card: [hackernews] Maine Is About to Become the First State to Ban Major New Data Centers; [hackernews] Netflix Prices Went Up Again – I Bought a DVD Player Instead; [hackernews] OpenAI puts Stargate UK on ice, blames energy costs and red tape; [hackernews] Discovering, detecting, and surgically removing Google&#x27;s AI watermark</description>
+        <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-09-evening.mp3" type="audio/mpeg" length="29879110"/>
+        <guid isPermaLink="false">2026-04-09-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-09</itunes:title>
+        <itunes:duration>1867</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
