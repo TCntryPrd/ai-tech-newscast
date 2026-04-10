@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 23:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 16:24:18 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -34,12 +34,12 @@
 
     <item>
         <title>AI and Tech News Cast - Midday Edition - 2026-04-10</title>
-        <description>Midday Edition: Tech Shed 80,000 Jobs in Q1 — Half the Cuts Officially AI's Fault; LG AI Research Drops EXAONE 4.5 — 33B Multimodal With 262K Context; ML Jagged Competence — The Viral Essay on AI Reliability; 77% of New Amazon Self-Help Books Likely AI-Generated; llama.cpp Merges Backend-Agnostic Tensor Parallelism | Travel: Sand Banks and Simplicity (Fiji)</description>
+        <description>Midday Edition: AI Models: [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar ; Cheap Open Models Reportedly Reproduced Much Of Mythos&#x27;s Showcased Findings | Business: We&#x27;re losing ~9 languages per year. Each one may carry irreplaceable environmental knowledge. This n; Mozilla accuses Microsoft of sabotaging Firefox with Windows and Copilot tactics; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: The AWS Lambda &#x27;Kiss of Death&#x27;; [hackernews] Instant 1.0, a backend for AI-coded apps; Tailslayer: a hedged reads solution for DRAM refresh latency; Built a web server that runs on sunlight and 27MB of RAM | Culture: Afrodoman; Heavy truck VS monster; I drew this black dot. This is somehow better than ai because at least it has soul and creativity no; Ain’t no way bro | Wild Card: [hackernews] OpenAI backs Illinois bill that would limit when AI labs can be held liable; [hackernews] We&#x27;ve raised $17M to build what comes after Git; [hackernews] Why do we tell ourselves scary stories about AI?</description>
         <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-10-midday.mp3" type="audio/mpeg" length="3049869"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-10-midday.mp3" type="audio/mpeg" length="27564452"/>
         <guid isPermaLink="false">2026-04-10-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-10</itunes:title>
-        <itunes:duration>508</itunes:duration>
+        <itunes:duration>1722</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
