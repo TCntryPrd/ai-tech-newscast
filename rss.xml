@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 16:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:26:26 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-10-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-10</itunes:title>
         <itunes:duration>1684</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-10</title>
+        <description>Evening Edition: AI Models: [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m | Business: OpenAI says CEO Sam Altman&#x27;s house was targeted with a Molotov cocktail; France to ditch Windows for Linux to reduce reliance on US tech; Reddit Ordered to Reveal User Data in ICE Investigation: A Threat to Free Speech?; We&#x27;re losing ~9 languages per year. Each one may carry irreplaceable environmental knowledge. This n | Dev Tools: The AWS Lambda &#x27;Kiss of Death&#x27;; Stuck in a company with no Git workflow, no PRs, and resistance to change😭; How would you solve ventilation in here?; I built a microkernel from scratch in Rust (5-part series: boot, IPC, preemption, virtual memory) | Culture: Ain’t no way bro; After ~400 Z-Image Turbo gens I finally figured out why everyone&#x27;s portraits look plastic; I drew this black dot. This is somehow better than ai because at least it has soul and creativity no; If only.... | Wild Card: [hackernews] We&#x27;ve raised $17M to build what comes after Git; [hackernews] AI assistance when contributing to the Linux kernel; [hackernews] Supply chain nightmare: How Rust will be attacked and what we can do to mitigate; [hackernews] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs</description>
+        <pubDate>Fri, 10 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-10-evening.mp3" type="audio/mpeg" length="31805902"/>
+        <guid isPermaLink="false">2026-04-10-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-10</itunes:title>
+        <itunes:duration>1987</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
