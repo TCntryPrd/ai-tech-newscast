@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 22:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 11:24:08 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -31,6 +31,18 @@
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - Morning Edition - 2026-04-11</title>
+        <description>Morning Edition: AI Models: [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: Tesla Plummets into 8th Consecutive Week of Losses as JPMorgan Warns of 60% Downside; Gen Z workers are so fearful AI will take their job they’re intentionally sabotaging their company’s; Reddit Ordered to Reveal User Data in ICE Investigation: A Threat to Free Speech? | Dev Tools: Stuck in a company with no Git workflow, no PRs, and resistance to change😭; trust me, bro; I built a microkernel from scratch in Rust (5-part series: boot, IPC, preemption, virtual memory); IBM server lot won at auction | Culture: Redneck Harry Potter; If only....; The &#x27;Real&#x27; Bob&#x27;s Burgers; “It’s just a joke!!!!” | Wild Card: [hackernews] Molotov cocktail is hurled at home of Sam Altman; [hackernews] AI assistance when contributing to the Linux kernel; [hackernews] Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs; [hackernews] Great at gaming? US air traffic control wants you to apply</description>
+        <pubDate>Sat, 11 Apr 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-11-morning.mp3" type="audio/mpeg" length="27047854"/>
+        <guid isPermaLink="false">2026-04-11-morning</guid>
+        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-11</itunes:title>
+        <itunes:duration>1690</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
         <title>AI and Tech News Cast - Midday Edition - 2026-04-10</title>
