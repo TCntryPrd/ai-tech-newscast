@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 11:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:23:58 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-11-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-11</itunes:title>
         <itunes:duration>1878</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-11</title>
+        <description>Midday Edition: AI Models: [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: US demands Reddit unmask ICE critic, summons firm to grand jury; A $300 device can silently override GPS across an entire city. Autonomous vehicles, delivery drones,; AI isn&#x27;t creating unemployment. It&#x27;s creating feudalism. I wrote a long-form analysis of where I thi; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: Original Apollo 11 code open-sourced by NASA — original Command Module and Lunar Module code repos a; Floating point from scratch: Hard Mode; tududi v1.0.0 is out! - your calm, open system for life and work; Borg UI just hit 1,000+ stars and 2.0 is here - Web interface for BorgBackup | Culture: This is why 2 sticks of RAM cost 900$; The classic UX you know and love; I tried to recreate dragon ball trunks scene; Anti-Ai hate mob gets mad at teenager for their book having AI art as the cover... | Wild Card: [hackernews] AI assistance when contributing to the Linux kernel; [hackernews] Cirrus Labs to join OpenAI; [hackernews] BlueHammer abuses Windows Defender&#x27;s update process to gain SYSTEM access</description>
+        <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-11-midday.mp3" type="audio/mpeg" length="28018773"/>
+        <guid isPermaLink="false">2026-04-11-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-11</itunes:title>
+        <itunes:duration>1751</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
