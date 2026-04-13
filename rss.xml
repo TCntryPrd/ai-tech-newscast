@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 11:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:12:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -31,6 +31,18 @@
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-12</title>
+        <description>Evening Edition: Hacker Uses Claude and ChatGPT to Breach Government Agencies; MiniMax M2.7 Released — Strong Benchmarks, Controversial License; WSJ: Man Dies After 4,732 Messages to Gemini Chatbot; Palantir CEO: AI Will Destroy Humanities Jobs; College Grads &apos;Helpless&apos; as AI Shrinks Entry-Level Job Market; Linux Finalizes AI Code Policy: Yes to Copilot, No to Slop; Berkeley Research: 8 Major AI Benchmarks Are Gameable</description>
+        <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-12-evening.mp3" type="audio/mpeg" length="3593613"/>
+        <guid isPermaLink="false">2026-04-12-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-12</itunes:title>
+        <itunes:duration>598</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
         <title>AI and Tech News Cast - Morning Edition - 2026-04-12</title>
