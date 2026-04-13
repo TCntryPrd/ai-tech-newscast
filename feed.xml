@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 19:00:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -31,6 +31,18 @@
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-13</title>
+        <description>Evening Edition: Palantir CEO Says AI &quot;Will Destroy&quot; Humanities Jobs; College Graduates Can&apos;t Find Entry-Level Jobs as AI Shrinks the Market; Oracle CFO Gets $26M in Stock After Algorithm-Targeted Layoffs; Tech Valuations Collapse Back to Pre-AI Boom Levels; Gemma 4 Breakout Week: Speed Gains and Audio Lands in llama.cpp; Rockstar Games Hacked by ShinyHunters — Ransom Deadline Is Tomorrow; Travel Destination of the Day: Japan — Tokyo&apos;s Golden Gai</description>
+        <pubDate>Mon, 13 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-evening.mp3" type="audio/mpeg" length="4250973"/>
+        <guid isPermaLink="false">2026-04-13-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-13</itunes:title>
+        <itunes:duration>708</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
         <title>AI and Tech News Cast - Midday Edition - 2026-04-13</title>
