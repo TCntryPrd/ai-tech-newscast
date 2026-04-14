@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 22:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:25:59 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -60,10 +60,10 @@
         <title>AI and Tech News Cast - Evening Edition - 2026-04-14</title>
         <description>Evening Edition: AI Models: For The First Time In War, Drones &amp;amp; Ground Robotic Systems Seized Enemy positions Without A Sing; My manager watching how I work after hitting the Claude usage limit; [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: 23 Major News Sites Have Blocked the Wayback Machine – Digital History In Danger; Disney Layoffs of 1,000 Employees Are Underway; CEO Josh D’Amaro Says Cuts Will ‘Streamline’ Operati; Facebook and Instagram Tighten Censorship Rules for Saying “Antifa” | Meta’s new rules let it ban us; Google will begin punishing sites for back button hijacking starting in June | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high- | Culture: We may have a new SOTA open-source model: ERNIE-Image Comparisons; Just gonna leave this here; Anti throwing a hissy fit over someone who doesn’t want to deal with assholes like them.; &quot;AI looks like ugly SLOP!&quot; but also &quot;Please label your AI use 🥹&quot; | Wild Card: [hackernews] Spain to expand internet blocks to tennis, golf, movies broadcasting times; [hackernews] Multi-Agentic Software Development Is a Distributed Systems Problem; [hackernews] ClawRun – Deploy and manage AI agents in seconds</description>
         <pubDate>Tue, 14 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-evening.mp3" type="audio/mpeg" length="26622790"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-evening.mp3" type="audio/mpeg" length="27943959"/>
         <guid isPermaLink="false">2026-04-14-evening</guid>
         <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-14</itunes:title>
-        <itunes:duration>1663</itunes:duration>
+        <itunes:duration>1746</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
