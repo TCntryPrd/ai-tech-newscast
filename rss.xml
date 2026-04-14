@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 01:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:12:33 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -36,10 +36,10 @@
         <title>AI and Tech News Cast - Morning Edition - 2026-04-14</title>
         <description>Morning Edition: AI Models: New robotic hand by Chinese tech company; [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar ; Why is nobody talking about these Ilya Sutskever predictions that are now visible in the hindsight | Business: Man Who Threw Molotov Cocktail At Sam Altman’s Home Claims He Was Following ChatGPT Recipe For Risot; Rockstar hackers release their stolen data, reveal that Rockstar was right to not pay them anything ; YouTube viewers can now work together to stop ads from playing; Stanford report highlights growing disconnect between AI insiders and everyone else | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high-; I learned something about GPUs today; Everything Should Be Typed: Scalar Types Are Not Enough | Culture: The &#x27;Real&#x27; 1980s Simpsons; Guess I won&#x27;t commission or subscribe to your patreon.; As promised, here are all the major cases of anti-AI crimes so far (Multiple Slides):; Does anyone recognize what artist tags the user @Magnus_waifu on Twitter/X might be using for their  | Wild Card: [hackernews] Servo is now available on crates.io; [hackernews] (AMD) Build AI Agents That Run Locally</description>
         <pubDate>Tue, 14 Apr 2026 07:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-morning.mp3" type="audio/mpeg" length="30264468"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-morning.mp3" type="audio/mpeg" length="27749608"/>
         <guid isPermaLink="false">2026-04-14-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-14</itunes:title>
-        <itunes:duration>1891</itunes:duration>
+        <itunes:duration>1734</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
