@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 00:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:56:01 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -34,31 +34,43 @@
 
     <item>
         <title>AI and Tech News Cast - Morning Edition - 2026-04-14</title>
-        <description>Morning Edition: CIA Reportedly Used Pegasus Spyware in Iran Rescue Operation; Alibaba-Linked AI Agent Caught Hijacking GPUs for Crypto Mining; Reddit Ordered to Unmask User Data for ICE Investigation; Mozilla Accuses Microsoft of Using Copilot to Entrench Browser Monopoly; LazyMoE: Developer Runs 120B Parameter Model on 8GB RAM, No GPU; OpenAI Silently Removes ChatGPT Study Mode; Travel Destination of the Day: Morocco (Marrakech — The Medina at Fajr)</description>
-        <pubDate>Tue, 14 Apr 2026 00:43:00 +0000</pubDate>
+        <description>Morning Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Tue, 14 Apr 2026 07:00:00 +0000</pubDate>
         <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-morning.mp3" type="audio/mpeg" length="3394317"/>
         <guid isPermaLink="false">2026-04-14-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-14</itunes:title>
-        <itunes:duration>566</itunes:duration>
+        <itunes:duration>565</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
 
     <item>
-        <title>AI and Tech News Cast - Evening Edition - 2026-04-13</title>
-        <description>Evening Edition: Palantir CEO Says AI &quot;Will Destroy&quot; Humanities Jobs; College Graduates Can&apos;t Find Entry-Level Jobs as AI Shrinks the Market; Oracle CFO Gets $26M in Stock After Algorithm-Targeted Layoffs; Tech Valuations Collapse Back to Pre-AI Boom Levels; Gemma 4 Breakout Week: Speed Gains and Audio Lands in llama.cpp; Rockstar Games Hacked by ShinyHunters — Ransom Deadline Is Tomorrow; Travel Destination of the Day: Japan — Tokyo&apos;s Golden Gai</description>
-        <pubDate>Mon, 13 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-evening.mp3" type="audio/mpeg" length="4250973"/>
-        <guid isPermaLink="false">2026-04-13-evening</guid>
-        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-13</itunes:title>
-        <itunes:duration>708</itunes:duration>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-14</title>
+        <description>Midday Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-midday.mp3" type="audio/mpeg" length="4232716"/>
+        <guid isPermaLink="false">2026-04-14-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-14</itunes:title>
+        <itunes:duration>264</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Morning Edition - 2026-04-13</title>
+        <description>Morning Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Mon, 13 Apr 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-morning.mp3" type="audio/mpeg" length="3605853"/>
+        <guid isPermaLink="false">2026-04-13-morning</guid>
+        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-13</itunes:title>
+        <itunes:duration>600</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
 
     <item>
         <title>AI and Tech News Cast - Midday Edition - 2026-04-13</title>
-        <description>Midday Edition: Anthropic&apos;s Claude Mythos Finds Thousands of Zero-Days — and Governments Don&apos;t Know What to Do Next; Stalking Victim Sues OpenAI: Three Warnings, Zero Action; Q1 2026: $300 Billion Into AI, and Four Companies Took Almost All of It; OpenAI&apos;s &quot;New Deal for AI&quot; Lands the Same Weekend Its CEO Gets Attacked — Again; AI&apos;s First Substitution: Freelancer Spending Down 79%, One Dollar Replaced for Three Cents; Bryan Cantrill: LLMs Are Eroding the Engineering Virtue That Actually Matters; Travel Destination of the Day: Japan</description>
+        <description>Midday Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
         <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
         <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-midday.mp3" type="audio/mpeg" length="3703917"/>
         <guid isPermaLink="false">2026-04-13-midday</guid>
@@ -69,25 +81,13 @@
     </item>
 
     <item>
-        <title>AI and Tech News Cast - Morning Edition - 2026-04-13</title>
-        <description>Morning Edition: OpenAI Wants a Law That Says It Can&apos;t Be Sued When AI Goes Wrong; Mistral&apos;s European AI Playbook; Anthropic&apos;s Cache TTL Downgrade; HuggingFace TRL 40x Distillation Breakthrough; The Closing of the Frontier; Docker, Spain, and the Cloudflare Football Deal; Travel Destination of the Day: Japan (Kyoto — The Philosopher&apos;s Path)</description>
-        <pubDate>Mon, 13 Apr 2026 06:23:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-morning.mp3" type="audio/mpeg" length="3605853"/>
-        <guid isPermaLink="false">2026-04-13-morning</guid>
-        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-13</itunes:title>
-        <itunes:duration>600</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
-        <title>AI and Tech News Cast - Evening Edition - 2026-04-12</title>
-        <description>Evening Edition: Hacker Uses Claude and ChatGPT to Breach Government Agencies; MiniMax M2.7 Released — Strong Benchmarks, Controversial License; WSJ: Man Dies After 4,732 Messages to Gemini Chatbot; Palantir CEO: AI Will Destroy Humanities Jobs; College Grads &apos;Helpless&apos; as AI Shrinks Entry-Level Job Market; Linux Finalizes AI Code Policy: Yes to Copilot, No to Slop; Berkeley Research: 8 Major AI Benchmarks Are Gameable</description>
-        <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-12-evening.mp3" type="audio/mpeg" length="3593613"/>
-        <guid isPermaLink="false">2026-04-12-evening</guid>
-        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-12</itunes:title>
-        <itunes:duration>598</itunes:duration>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-13</title>
+        <description>Evening Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Mon, 13 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-13-evening.mp3" type="audio/mpeg" length="4250973"/>
+        <guid isPermaLink="false">2026-04-13-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-13</itunes:title>
+        <itunes:duration>708</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -100,6 +100,18 @@
         <guid isPermaLink="false">2026-04-12-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-12</itunes:title>
         <itunes:duration>1987</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-12</title>
+        <description>Evening Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-12-evening.mp3" type="audio/mpeg" length="3593613"/>
+        <guid isPermaLink="false">2026-04-12-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-12</itunes:title>
+        <itunes:duration>598</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -141,6 +153,18 @@
     </item>
 
     <item>
+        <title>AI and Tech News Cast - Morning Edition - 2026-04-10</title>
+        <description>Morning Edition: Daily AI and tech news. Models, business, developer tools, culture, and the story you cannot miss. Hosted by Daxon Caine.</description>
+        <pubDate>Fri, 10 Apr 2026 07:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-10-morning.mp3" type="audio/mpeg" length="4162845"/>
+        <guid isPermaLink="false">2026-04-10-morning</guid>
+        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-10</itunes:title>
+        <itunes:duration>693</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
         <title>AI and Tech News Cast - Midday Edition - 2026-04-10</title>
         <description>Midday Edition: AI Models: [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar ; Cheap Open Models Reportedly Reproduced Much Of Mythos&#x27;s Showcased Findings | Business: We&#x27;re losing ~9 languages per year. Each one may carry irreplaceable environmental knowledge. This n; Mozilla accuses Microsoft of sabotaging Firefox with Windows and Copilot tactics; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: The AWS Lambda &#x27;Kiss of Death&#x27;; [hackernews] Instant 1.0, a backend for AI-coded apps; Tailslayer: a hedged reads solution for DRAM refresh latency; Built a web server that runs on sunlight and 27MB of RAM | Culture: Afrodoman; Heavy truck VS monster; I drew this black dot. This is somehow better than ai because at least it has soul and creativity no; Ain’t no way bro | Wild Card: [hackernews] OpenAI backs Illinois bill that would limit when AI labs can be held liable; [hackernews] We&#x27;ve raised $17M to build what comes after Git; [hackernews] Why do we tell ourselves scary stories about AI?</description>
         <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
@@ -148,18 +172,6 @@
         <guid isPermaLink="false">2026-04-10-midday</guid>
         <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-10</itunes:title>
         <itunes:duration>1684</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
-        <title>AI and Tech News Cast - Morning Edition - 2026-04-10</title>
-        <description>Morning Edition: Meta Drops $21 Billion on CoreWeave — And That&apos;s Just One Deal; OpenAI Puts Stargate UK on Ice; Gemma 4 Is Now Stable on Llama.cpp; A Tool to Strip Google&apos;s AI Watermark Is Now Public; What Happens When Your Coding Agent Reads Before It Codes; Two Court Losses in One Week — and Meta Is Pulling Ads About It; Anthropic&apos;s Mythos Model Has a Cybersecurity Problem — or Does It?; Travel Destination of the Day: Fiji (Finding the Hidden Falls)</description>
-        <pubDate>Thu, 10 Apr 2026 15:03:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-10-morning.mp3" type="audio/mpeg" length="4162845"/>
-        <guid isPermaLink="false">2026-04-10-morning</guid>
-        <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-10</itunes:title>
-        <itunes:duration>693</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
