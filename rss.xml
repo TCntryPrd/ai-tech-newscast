@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 16:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:23:42 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -58,12 +58,12 @@
 
     <item>
         <title>AI and Tech News Cast - Evening Edition - 2026-04-14</title>
-        <description>Evening Edition: AI Models: New robotic hand by Chinese tech company; [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;no_reply@email.heygen.com&gt;] HeyGen launches Avatar V, a new advanced AI avatar m; Why is nobody talking about these Ilya Sutskever predictions that are now visible in the hindsight | Business: Man Who Threw Molotov Cocktail At Sam Altman’s Home Claims He Was Following ChatGPT Recipe For Risot; Rockstar hackers release their stolen data, reveal that Rockstar was right to not pay them anything ; YouTube viewers can now work together to stop ads from playing; Stanford report highlights growing disconnect between AI insiders and everyone else | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high-; I learned something about GPUs today; Everything Should Be Typed: Scalar Types Are Not Enough | Culture: The &#x27;Real&#x27; 1980s Simpsons; Guess I won&#x27;t commission or subscribe to your patreon.; As promised, here are all the major cases of anti-AI crimes so far (Multiple Slides):; Does anyone recognize what artist tags the user @Magnus_waifu on Twitter/X might be using for their  | Wild Card: [hackernews] Servo is now available on crates.io; [hackernews] (AMD) Build AI Agents That Run Locally</description>
+        <description>Evening Edition: AI Models: For The First Time In War, Drones &amp;amp; Ground Robotic Systems Seized Enemy positions Without A Sing; My manager watching how I work after hitting the Claude usage limit; [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: 23 Major News Sites Have Blocked the Wayback Machine – Digital History In Danger; Disney Layoffs of 1,000 Employees Are Underway; CEO Josh D’Amaro Says Cuts Will ‘Streamline’ Operati; Facebook and Instagram Tighten Censorship Rules for Saying “Antifa” | Meta’s new rules let it ban us; Google will begin punishing sites for back button hijacking starting in June | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high- | Culture: We may have a new SOTA open-source model: ERNIE-Image Comparisons; Just gonna leave this here; Anti throwing a hissy fit over someone who doesn’t want to deal with assholes like them.; &quot;AI looks like ugly SLOP!&quot; but also &quot;Please label your AI use 🥹&quot; | Wild Card: [hackernews] Spain to expand internet blocks to tennis, golf, movies broadcasting times; [hackernews] Multi-Agentic Software Development Is a Distributed Systems Problem; [hackernews] ClawRun – Deploy and manage AI agents in seconds</description>
         <pubDate>Tue, 14 Apr 2026 19:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-evening.mp3" type="audio/mpeg" length="28395355"/>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-14-evening.mp3" type="audio/mpeg" length="26622790"/>
         <guid isPermaLink="false">2026-04-14-evening</guid>
         <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-14</itunes:title>
-        <itunes:duration>1774</itunes:duration>
+        <itunes:duration>1663</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
