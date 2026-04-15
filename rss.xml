@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 11:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:24:10 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -40,6 +40,18 @@
         <guid isPermaLink="false">2026-04-15-morning</guid>
         <itunes:title>AI and Tech News Cast - Morning Edition - 2026-04-15</itunes:title>
         <itunes:duration>1459</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-15</title>
+        <description>Midday Edition: AI Models: [hackernews] Claude Code Routines; What in the ever loving f; [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: Ukraine’s Robots Capture Russian Position Without Soldiers or Losses; As with drones, the future of ; Allbirds announces stunning pivot from shoes to AI, stock explodes more than 300%; Blowin’ in the Wind: How Nordic Countries Made Electricity Free | Atmos | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high-; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] New Plugin Dramatically Boosts Claude&#x27;s Coding Pro | Culture: American Life; Another sub bans AI. New sub came to the rescue ❤️; SLAYER VI: Crystal of the Blood Moon; The claw machine turned into a cat-catching machine😯 🤩 | Wild Card: [hackernews] My AI-Assisted Workflow; [hackernews] Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference; [hackernews] MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints; [hackernews] Study: Back-to-basics approach can match or outperform AI in language analysis</description>
+        <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-15-midday.mp3" type="audio/mpeg" length="29634186"/>
+        <guid isPermaLink="false">2026-04-15-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-15</itunes:title>
+        <itunes:duration>1852</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
