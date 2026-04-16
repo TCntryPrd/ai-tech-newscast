@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 16:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:17:08 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -32,6 +32,17 @@
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-16</title>
+        <description>Evening Edition: Dev Tools: GPT-5.4 Ships Native Computer Use — Agents Now Operate Your Desktop | Travel: Monteverde Cloud Forest, Costa Rica</description>
+        <pubDate>Thu, 16 Apr 2026 23:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-16-evening.mp3" type="audio/mpeg" length="1245837"/>
+        <guid isPermaLink="false">2026-04-16-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-16</itunes:title>
+        <itunes:duration>148</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
         <title>AI and Tech News Cast - Morning Edition - 2026-04-15</title>
         <description>Morning Edition: AI Models: [newsletter/NVIDIA &lt;news@nvidia.com&gt;] NVIDIA Enhances Cosmos Platform for Physical AI with New Capab; [newsletter/HeyGen &lt;webinar@learn.heygen.com&gt;] HeyGen unveils Avatar V, its most advanced AI avatar  | Business: Ukraine’s Robots Capture Russian Position Without Soldiers or Losses; As with drones, the future of ; [newsletter/Ivan at Notion &lt;ivan@mail.notion.so&gt;] Notion 3.4 Enhances Custom AI Agents for Task Auto; [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] AI Automation Agency Founder Launches Course on Bu | Dev Tools: [newsletter/Nate Herk &lt;uppitai@mail.beehiiv.com&gt;] Seedance 2.0 integrates Claude AI for rapid, high- | Culture: Tencent HY-World 2.0 appears to be dropping on April 15 — open-source multimodal 3D world generation; POV: Tiktoker time travelled to The Shining, but fucked everything up (sound on 🔊 recommended); Psycho anti met the justice; &quot;AI looks like ugly SLOP!&quot; but also &quot;Please label your AI use 🥹&quot;; Nucleus-Image Released | Wild Card: [hackernews] Spain to expand internet blocks to tennis, golf, movies broadcasting times; [hackernews] ClawRun – Deploy and manage AI agents in seconds; [hackernews] MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K</description>
