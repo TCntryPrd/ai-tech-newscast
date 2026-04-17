@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 19:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:18:55 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel.</itunes:summary>
     <itunes:owner>
@@ -34,12 +34,12 @@
 
     <item>
         <title>AI and Tech News Cast - Evening Edition - 2026-04-17</title>
-        <description>Evening Edition: Models: GPT-Rosalind Drug Discovery | Business: Cerebras $35B IPO | Dev Tools: Goose Agent to Linux Foundation | Wildcard: Manycore 187% Surge | Travel: Big Bend National Park + Whistler BC</description>
-        <pubDate>Fri, 17 Apr 2026 23:00:00 +0000</pubDate>
-        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-17-evening.mp3" type="audio/mpeg" length="3859101"/>
+        <description>Evening Edition: Models: Gemini 3.1 Ultra 2M Context | Business: OpenAI Acquires Hiro | Dev Tools: Cursor Multi-Agent | Wildcard: Stanford AI Index Anthropic #1 | Travel: Astoria Oregon</description>
+        <pubDate>Fri, 17 Apr 2026 22:18:55 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-17-evening.mp3" type="audio/mpeg" length="6135213"/>
         <guid isPermaLink="false">2026-04-17-evening</guid>
         <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-17</itunes:title>
-        <itunes:duration>451</itunes:duration>
+        <itunes:duration>699</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>
