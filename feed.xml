@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily. Created by AI from sourced material.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 11:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:44:02 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel. Created by AI from sourced material.</itunes:summary>
     <itunes:owner>
@@ -32,6 +32,18 @@
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
+    <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-19</title>
+        <description>Midday Edition: Models: Anthropic Mythos 5 Triggers ASL-4 + Gemini 3.1 Ultra Ships 2M-Token Context | Business: Anthropic $30B Series G + SpaceX acquires xAI | DevTools: Claw Code 72K GitHub stars + Cursor 3 agent-first workspace | Culture: Anthropic automated alignment paper + EU AI Act 16-month delay | Wildcard: Unitree H1 hits 10 m/s + Quantum-AI prediction hybrid | Travel: Ala-Kul Lake, Kyrgyzstan</description>
+        <pubDate>Sun, 19 Apr 2026 16:44:02 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-19-midday.mp3"
+                   type="audio/mpeg" length="18752026"/>
+        <guid isPermaLink="false">2026-04-19-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-19</itunes:title>
+        <itunes:duration>1759</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 <item>
       <title>AI and Tech News Cast - Evening Edition - 2026-04-18</title>
       <description>Evening Edition: Models: Google DeepMind Releases Gemma 4 for On-Device Agentic AI + DeepSeek V4 Launches with 1M-Token Context, First Open-Weigh | Business: Anthropic Annualized Revenue Triples to 30 Billion in Three  + Legal-AI Startup Legora Closes $550M Series D at $5.55B Valu | DevTools: OpenAI Revamps Codex to Control the Desktop, Aims Directly a + Cursor 3 Ships Unified Multi-Repo Workspace and 'Bugbot Lear | Culture: Anthropic Publicly Flags Ethical Risks in Deploying Claude M + Indonesia, Malaysia, Philippines Block Grok After AI Nudific | Wildcard: Beijing Stages World's First 300-Robot Humanoid Half-Maratho + Alibaba Opens 10000-Chip Zhenwu AI Data Center, Signaling Ch | Travel: Oaxaca City, Mexico</description>
