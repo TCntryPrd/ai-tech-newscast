@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily. Created by AI from sourced material.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sun, 20 Apr 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2026 19:00:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel. Created by AI from sourced material.</itunes:summary>
     <itunes:owner>
@@ -32,6 +32,18 @@
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
+        <item>
+        <title>AI and Tech News Cast - Evening v3 Edition - 2026-04-20</title>
+        <description>Evening v3 Edition: Models: xAI Grok-4 5M Context 92% MMLU + Mistral Large 3 88% GPQA | Business: NVIDIA Q1 $45B 220% YoY + Inflection AI $5B Series C | DevTools: Replit AI Agent Builder + Hugging Face Real-Time Collab | Culture: SAG-AFTRA AI Residuals + Tribeca AI Art Prize | Wildcard: IBM Eagle 2 Cracks RSA-2048 + EU AI Act Phase 2 | Travel: Tulum, Mexico. Created by AI from sourced material.</description>
+        <pubDate>Sun, 20 Apr 2026 19:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-20-evening-v3.mp3"
+                   type="audio/mpeg" length="12679604"/>
+        <guid isPermaLink="false">2026-04-20-evening-v3</guid>
+        <itunes:title>AI and Tech News Cast - Evening v3 Edition - 2026-04-20</itunes:title>
+        <itunes:duration>1928</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
         <title>AI and Tech News Cast - Evening v2 Edition - 2026-04-20</title>
         <description>Evening v2 Edition: Models: xAI Grok-4 tops LMSYS Leaderboard + DeepMind Storm-2 1.5T MoE | Business: Scale AI $20B funding + Perplexity acquires Neeva | DevTools: LangChain 0.3 multi-modal + Sourcegraph Cody 2.0 | Culture: OpenAI Ethics Board resigns + White House AI Policy | Wildcard: Nvidia Blackwell Ultra GPU + Beijing Humanoid Robot Half-Marathon | Travel: Göreme, Turkey. Created by AI from sourced material.</description>
@@ -670,3 +682,4 @@
     </item>
 </channel>
 </rss>
+
