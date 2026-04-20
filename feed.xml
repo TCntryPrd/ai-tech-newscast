@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily. Created by AI from sourced material.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Sun, 20 Apr 2026 10:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2026 18:00:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel. Created by AI from sourced material.</itunes:summary>
     <itunes:owner>
@@ -32,6 +32,18 @@
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
+    <item>
+        <title>AI and Tech News Cast - Evening v2 Edition - 2026-04-20</title>
+        <description>Evening v2 Edition: Models: xAI Grok-4 tops LMSYS Leaderboard + DeepMind Storm-2 1.5T MoE | Business: Scale AI $20B funding + Perplexity acquires Neeva | DevTools: LangChain 0.3 multi-modal + Sourcegraph Cody 2.0 | Culture: OpenAI Ethics Board resigns + White House AI Policy | Wildcard: Nvidia Blackwell Ultra GPU + Beijing Humanoid Robot Half-Marathon | Travel: Göreme, Turkey. Created by AI from sourced material.</description>
+        <pubDate>Sun, 20 Apr 2026 18:00:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-20-evening-v2.mp3"
+                   type="audio/mpeg" length="15752001"/>
+        <guid isPermaLink="false">2026-04-20-evening-v2</guid>
+        <itunes:title>AI and Tech News Cast - Evening v2 Edition - 2026-04-20</itunes:title>
+        <itunes:duration>1481</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI and Tech News Cast - Morning v2 Edition - 2026-04-20</title>
       <description>Morning v2 Edition: Models: Gemini 3.1 Pro Goes Global + Meta Launches Muse Spark | Business: OpenAI Liability Bill + OpenAI Ads $100M | DevTools: Reverse SynthID Watermark Tool + Research-Driven Coding Agents | Culture: Meta Court Losses + Anthropic Mythos Cybersecurity | Wildcard: Stargate UK Paused + Texas Data Center Tax Breaks | Travel: Italian Alps at Milan-Cortina Games. Created by AI from sourced material.</description>
