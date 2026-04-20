@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily. Created by AI from sourced material.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 09:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:00:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel. Created by AI from sourced material.</itunes:summary>
     <itunes:owner>
@@ -32,6 +32,18 @@
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
 
+    <item>
+      <title>AI and Tech News Cast - Midday Edition - 2026-04-20</title>
+      <description>Midday Edition: Models: LG AI Research Drops EXAONE 4.5 — A 33B Multimodal Model With a 262K Context Window | Business: Tech Shed 80,000 Jobs in Q1 — Half the Cuts Are AI&#39;s Fault | DevTools: llama.cpp Backend-Agnostic Tensor Parallelism | Culture: Viral Essay on AI Reliability + 77% of New Amazon Self-Help Books Probably AI-Generated | Travel: Sand Banks and Simplicity — Fiji. Created by AI from sourced material.</description>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-20-midday.mp3"
+                 type="audio/mpeg" length="3555477"/>
+      <guid isPermaLink="false">2026-04-20-midday</guid>
+      <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-20</itunes:title>
+      <itunes:duration>538</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
       <title>AI and Tech News Cast - Morning Edition - 2026-04-14</title>
