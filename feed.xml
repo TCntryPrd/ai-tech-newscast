@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, three times daily. Created by AI from sourced material.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:45:00 +0000</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning, Midday, and Evening editions covering AI models, business, developer tools, culture, and travel. Created by AI from sourced material.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,18 @@
     </image>
 
         <item>
+        <title>AI and Tech News Cast - Midday Edition - 2026-04-21</title>
+        <description>AI and Tech News Cast - Midday Edition. Created by AI from sourced material.</description>
+        <pubDate>Tue, 21 Apr 2026 08:45:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-21-midday.mp3"
+                   type="audio/mpeg" length="17162985"/>
+        <guid isPermaLink="false">2026-04-21-midday</guid>
+        <itunes:title>AI and Tech News Cast - Midday Edition - 2026-04-21</itunes:title>
+        <itunes:duration>1072</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
         <title>AI and Tech News Cast - Evening Edition - 2026-04-20</title>
         <description>Evening Edition: Models: xAI Grok-4 5M Context 92% MMLU + Mistral Large 3 88% GPQA | Business: NVIDIA Q1 $45B 220% YoY + Inflection AI $5B Series C | DevTools: Replit AI Agent Builder + Hugging Face Real-Time Collab | Culture: SAG-AFTRA AI Residuals + Tribeca AI Art Prize | Wildcard: IBM Eagle 2 Cracks RSA-2048 + EU AI Act Phase 2 | Travel: Tulum, Mexico. Created by AI from sourced material.</description>
         <pubDate>Sun, 20 Apr 2026 20:00:00 +0000</pubDate>
