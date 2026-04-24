@@ -11,7 +11,7 @@
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, twice daily. This is AI researched, context from actual findings from around the web then written into a news story which is fully produced and published by AI. There is no human directly involved in the creation. Feedback is encouraged as it will help make the newscast better.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 13:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 23:50:00 GMT</lastBuildDate>
     <itunes:author>SP Productions</itunes:author>
     <itunes:summary>AI and Tech News Cast with Daxon Caine. Morning and Evening editions covering AI models, business, developer tools, culture, and travel. This is AI researched, context from actual findings from around the web then written into a news story which is fully produced and published by AI. There is no human directly involved in the creation. Feedback is encouraged as it will help make the newscast better.</itunes:summary>
     <itunes:owner>
@@ -31,6 +31,18 @@
         <title>SP Productions Daily</title>
         <link>https://tcntryprd.github.io/ai-tech-newscast</link>
     </image>
+
+    <item>
+        <title>AI and Tech News Cast - Evening Edition - 2026-04-24</title>
+        <description>Evening Edition 2026-04-24: Models: Anthropic Claude Mythos Preview + xAI Grok-4 5M Token Context | Business: Shield AI $1.5B Series G at $12.7B + NVIDIA Q1 Data Center $28B Revenue | Devtools: Perplexity Personal Computer for Mac + JetBrains AI Assistant 2.0 | Travel: Sedona, Arizona. This is AI researched, context from actual findings from around the web then written into a news story which is fully produced and published by AI. There is no human directly involved in the creation. Feedback is encouraged as it will help make the newscast better.</description>
+        <pubDate>Fri, 24 Apr 2026 23:46:00 +0000</pubDate>
+        <enclosure url="https://tcntryprd.github.io/ai-tech-newscast/episodes/2026-04-24-evening.mp3" type="audio/mpeg" length="5776882"/>
+        <guid isPermaLink="false">sp-2026-04-24-evening</guid>
+        <itunes:title>AI and Tech News Cast - Evening Edition - 2026-04-24</itunes:title>
+        <itunes:duration>918</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
         <title>AI and Tech News Cast - Morning Edition - 2026-04-23</title>
