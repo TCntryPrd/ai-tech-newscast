@@ -7,7 +7,7 @@
 <channel>
     <title>SP Productions Daily</title>
     <link>https://tcntryprd.github.io/ai-tech-newscast</link>
-    <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tcntryprd.github.io/ai-tech-newscast/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Daily shows from SP Productions. AI and Tech News Cast with Daxon Caine, twice daily. This is AI researched, context from actual findings from around the web then written into a news story which is fully produced and published by AI. There is no human directly involved in the creation. Feedback is encouraged as it will help make the newscast better.</description>
     <language>en-us</language>
     <copyright>&#169; 2026 Starr and Partners LLC</copyright>
